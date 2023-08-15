@@ -45,6 +45,7 @@
     height: 35px;
     left: 10%;
     top : 78%;
+
    
 }
 .barre6{
@@ -52,7 +53,28 @@
     height: 35px;
     left: 40%;
     top : 42.7%;
+   
+}
+
+.barre7{
+    width: 115px;
+    height: 35px;
+    left: 68%;
+    top : 42.7%;
+
+}
+.barre8{
+    width: 35px;
+    height: 80px;
+    left: 68%;
+    top : 5%;
+}
     
+.barre9{
+    width: 35px;
+    height: 180px;
+    left: 84%;
+    top : 5%;
 }
 .final_result{
 color: #C1C1C1;
