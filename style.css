@@ -1,0 +1,73 @@
+.container{
+    background-color: black;
+    margin: 0 auto;
+    width: 800px;
+    height: 220px;
+    z-index: 0;
+    position : relative;
+
+}
+.barre1, .barre2, .barre3, .barre4, .barre5, .barre6, .barre7, .barre8, .barre9 {
+    background-color: #671c07;
+    z-index: 1;
+    position: absolute;
+    border: 1px dotted #000;
+}
+.barre1{
+    width: 90px;
+    height: 35px;
+    left: 10%;
+    top : 5%;
+}
+.barre2{
+    width: 35px;
+    height: 90px;
+    left: 20%;
+    top : 5%;
+}
+.barre3{
+    width: 90px;
+    height: 35px;
+    left: 13%;
+    top : 42.7%;
+    
+    
+}
+.barre4{
+    width: 35px;
+    height: 90px;
+    left: 10%;
+    top : 42.7%;
+   
+}
+.barre5{
+    width: 115px;
+    height: 35px;
+    left: 10%;
+    top : 78%;
+   
+}
+.barre6{
+    width: 115px;
+    height: 35px;
+    left: 40%;
+    top : 42.7%;
+    
+}
+.final_result{
+color: #C1C1C1;
+border: 1px solid #C1C1C1;
+background: transparent;
+font-size: 4.3rem;
+font-family:'Times New Roman', Times, serif;
+font-stretch:expanded;
+width: 90%;
+height: auto;
+margin: 0 auto;
+text-align: center;
+
+position: absolute;
+top : 25.5%;
+left: 5%;
+z-index: 2;
+}
