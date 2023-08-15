@@ -93,3 +93,7 @@ top : 30%;
 left: 5%;
 z-index: 2;
 }
+.final_result:hover{
+    background-color: aqua;
+    color: white;
+}
